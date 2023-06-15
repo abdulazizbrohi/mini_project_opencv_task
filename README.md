@@ -1,0 +1,1 @@
+# mini_project_opencv_task
